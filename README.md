@@ -27,7 +27,7 @@
 
 <img src = "img/docker_ps.png" width = 100%>
 
-<img src = "img/memcache_stats.png" width = 100%>
+<img src = "img/memache_stats.png" width = 100%>
 
 ### Задание 3. Удаление по TTL в Memcached
 
